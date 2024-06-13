@@ -1,0 +1,54 @@
+body , html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    
+}
+
+header {
+    background-color: #fff;
+    padding: 10px -10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+    
+}
+
+#tituloprincipal {
+    position: relative;
+    top: -10px;
+    
+}
+
+main {
+    text-align: center;
+    margin-top: 190px;
+}
+
+#cordefundoescrita {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 5px;
+    
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 2px solid blue;
+    background-color: transparent;
+    color: blue;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+
+}
+
+button:hover {
+    background-color: blue;
+    color: white;
+}
