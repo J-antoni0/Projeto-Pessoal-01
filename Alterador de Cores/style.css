@@ -49,8 +49,3 @@ button {
     border-radius: 5px;
     
 }
-
-button:hover {
-    background-color: transparent;
-    color: white;
-}
